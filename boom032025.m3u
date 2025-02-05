@@ -1,0 +1,385 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 ,TVP 1
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814363&extension=ts&play_token=QUyjY7dLeH
+#EXTINF:-1 ,TVP 2
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814362&extension=ts&play_token=bhY8QASHlF
+#EXTINF:-1 ,TVP INFO
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814361&extension=ts&play_token=D00aylD7af
+#EXTINF:-1 ,TVP
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814360&extension=ts&play_token=6eHPzPihqE
+#EXTINF:-1 ,TVP KULTURA
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814359&extension=ts&play_token=VkcxVc0Qcr
+#EXTINF:-1 ,POLSAT SERIALE
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814358&extension=ts&play_token=Hx3NkPxiXj
+#EXTINF:-1 ,TVP DOKUMENT
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814357&extension=ts&play_token=OxbqCu6SX1
+#EXTINF:-1 ,TVN
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814356&extension=ts&play_token=4Zj5vGXyCM
+#EXTINF:-1 ,TVN 7
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814355&extension=ts&play_token=Vu966zZpey
+#EXTINF:-1 ,TVN 24
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814354&extension=ts&play_token=LqmoQ1T3ut
+#EXTINF:-1 ,TVN 24 BIS
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814353&extension=ts&play_token=Cisc967g8p
+#EXTINF:-1 ,TBN POLSKA
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=1148827&extension=ts&play_token=9FNMtIweey
+#EXTINF:-1 ,POLSAT
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814352&extension=ts&play_token=mO74yKxhEo
+#EXTINF:-1 ,POLSAT 2
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814351&extension=ts&play_token=zEdV5wIUHW
+#EXTINF:-1 ,TVN FABULA
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814350&extension=ts&play_token=v26SwXkSe5
+#EXTINF:-1 ,TV 4
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814349&extension=ts&play_token=bmlonzA7aq
+#EXTINF:-1 ,TV 6
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814348&extension=ts&play_token=zEh0JfQoeH
+#EXTINF:-1 ,TTV
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814347&extension=ts&play_token=8WstmuF1N9
+#EXTINF:-1 ,DTX
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814346&extension=ts&play_token=oqTdpAH0qL
+#EXTINF:-1 ,MOTOWIZJA
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814345&extension=ts&play_token=PuKdyXr0RW
+#EXTINF:-1 ,FIGHTBOX
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814344&extension=ts&play_token=w1pTEcHMI5
+#EXTINF:-1 ,FIGHTKLUB
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814343&extension=ts&play_token=i949SVu8bl
+#EXTINF:-1 ,TVP SPORT
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814342&extension=ts&play_token=r9oVoZkj6j
+#EXTINF:-1 ,EUROSPORT 1
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814341&extension=ts&play_token=MhvZdM9HTA
+#EXTINF:-1 ,EUROSPORT 2
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814340&extension=ts&play_token=elsvV5h9Ce
+#EXTINF:-1 ,SPORTKLUB
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814339&extension=ts&play_token=9tfifPAX2Y
+#EXTINF:-1 ,POLSAT SPORT 1
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814338&extension=ts&play_token=5Xn8L5eBvq
+#EXTINF:-1 ,POLSAT SPORT FIGHT
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814337&extension=ts&play_token=VwN424QqjZ
+#EXTINF:-1 ,POLSAT SPORT 3
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814336&extension=ts&play_token=dD4NcqFDb2
+#EXTINF:-1 ,POLSAT SPORT 2
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814335&extension=ts&play_token=jVEOHLW4Pe
+#EXTINF:-1 ,CANAL+ SPORT
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814334&extension=ts&play_token=EjLU9wA8ZO
+#EXTINF:-1 ,CANAL+ SPORT 2
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814333&extension=ts&play_token=fly8j1uDuW
+#EXTINF:-1 ,CANAL+ SPORT 3
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814332&extension=ts&play_token=qsdcO5XA80
+#EXTINF:-1 ,CANAL+ SPORT 4
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814331&extension=ts&play_token=ZyjWfzxZFS
+#EXTINF:-1 ,CANAL+ SPORT 5
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814330&extension=ts&play_token=YaMvccUeSO
+#EXTINF:-1 ,EXTREME SPORTS
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814329&extension=ts&play_token=1WgEZRysBD
+#EXTINF:-1 ,ELEVEN SPORTS 1 4K
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814328&extension=ts&play_token=JhAz5lvEHh
+#EXTINF:-1 ,ELEVEN SPORTS 1
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814327&extension=ts&play_token=RCRg6trsxZ
+#EXTINF:-1 ,ELEVEN SPORTS 2
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814326&extension=ts&play_token=n8cXpVYT8g
+#EXTINF:-1 ,ELEVEN SPORTS 3
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814325&extension=ts&play_token=bMssvR4PPP
+#EXTINF:-1 ,ELEVEN SPORTS 4
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814324&extension=ts&play_token=v8Q9pm79AL
+#EXTINF:-1 ,POLSAT SPORT PREMIUM 1
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814323&extension=ts&play_token=VYMFu1RH1m
+#EXTINF:-1 ,POLSAT SPORT PREMIUM 2
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814322&extension=ts&play_token=GgM04TszYE
+#EXTINF:-1 ,POLSAT SPORT PREMIUM 3
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814321&extension=ts&play_token=ELeF6Z1DAy
+#EXTINF:-1 ,POLSAT SPORT PREMIUM 4
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814320&extension=ts&play_token=9JM02oko5F
+#EXTINF:-1 ,POLSAT SPORT PREMIUM 5
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814319&extension=ts&play_token=y2DfidUldH
+#EXTINF:-1 ,POLSAT SPORT PREMIUM 6
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=814318&extension=ts&play_token=itKcCqMxdq
+#EXTINF:-1 ,POLSAT NEWS
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689711&extension=ts&play_token=0cQRxgcJJw
+#EXTINF:-1 ,POLSAT NEWS 2
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689785&extension=ts&play_token=RLEfNprEIJ
+#EXTINF:-1 ,TV REPUBLIKA
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689809&extension=ts&play_token=5NWewW19rg
+#EXTINF:-1 ,WPOLSCE 24
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689821&extension=ts&play_token=HgoXljuUwL
+#EXTINF:-1 ,WYDARZENIA 24
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=986068&extension=ts&play_token=fiyv35PwQe
+#EXTINF:-1 ,POLSAT RODZINA
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689646&extension=ts&play_token=tSupOLSEuo
+#EXTINF:-1 ,POLSAT FILM
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689647&extension=ts&play_token=FANmuQe21r
+#EXTINF:-1 ,CANAL+ 1
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689651&extension=ts&play_token=y7aSQFrxfT
+#EXTINF:-1 ,CANAL+ NOW
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689653&extension=ts&play_token=9XieMQ6eop
+#EXTINF:-1 ,CANAL+ PREMIUM
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689654&extension=ts&play_token=pvB6uiaCn3
+#EXTINF:-1 ,CANAL+ FILM
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689661&extension=ts&play_token=jjYVZQXdLU
+#EXTINF:-1 ,CANAL+ SERIALE
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689655&extension=ts&play_token=XyeXmMe4S2
+#EXTINF:-1 ,HBO
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689658&extension=ts&play_token=2VnTfeGwpW
+#EXTINF:-1 ,HBO 2
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689656&extension=ts&play_token=VHrpsdF29p
+#EXTINF:-1 ,HBO 3
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689657&extension=ts&play_token=AuNZjVgPeX
+#EXTINF:-1 ,ALE KINO+
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689659&extension=ts&play_token=y7ZFg0F46z
+#EXTINF:-1 ,AXN
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689662&extension=ts&play_token=jQ5WpQ0cqq
+#EXTINF:-1 ,CINEMAX
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689667&extension=ts&play_token=puQIvE3zH4
+#EXTINF:-1 ,CINEMAX 2
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689664&extension=ts&play_token=ZzsZufvrkn
+#EXTINF:-1 ,COMEDY CENTRAL
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689665&extension=ts&play_token=tY3OLRAokD
+#EXTINF:-1 ,COMEDY CENTRAL POLAND
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689666&extension=ts&play_token=MkDhylXD0i
+#EXTINF:-1 ,FILMBOX EXTRA
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689668&extension=ts&play_token=MmN5iiEWNo
+#EXTINF:-1 ,FILMBOX PREMIUM
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689669&extension=ts&play_token=aF2SnrAFIY
+#EXTINF:-1 ,FOX COMEDY
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689672&extension=ts&play_token=4t1OmipV86
+#EXTINF:-1 ,KINO TV
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689674&extension=ts&play_token=2gMBrTPZwK
+#EXTINF:-1 ,KINO POLSKA
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689676&extension=ts&play_token=lMaCrVjWPq
+#EXTINF:-1 ,FOX
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689675&extension=ts&play_token=cJksQIHiXb
+#EXTINF:-1 ,TLC
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689678&extension=ts&play_token=PGIE3zfolv
+#EXTINF:-1 ,PARAMOUNT CHANNEL
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689680&extension=ts&play_token=UcibbWdbMX
+#EXTINF:-1 ,SCIFI UNIVERSAL
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689701&extension=ts&play_token=llZG1FFbif
+#EXTINF:-1 ,AMC
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689719&extension=ts&play_token=fLXbgKA7hk
+#EXTINF:-1 ,NOVELAS+
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689742&extension=ts&play_token=8hbvQcvb1N
+#EXTINF:-1 ,RED CARPET TV
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689757&extension=ts&play_token=EBNMGRNVLw
+#EXTINF:-1 ,AXN BLACK
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689776&extension=ts&play_token=ddX4ErfhcR
+#EXTINF:-1 ,AXN WHITE
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689777&extension=ts&play_token=oQioHRA1Sy
+#EXTINF:-1 ,BBC FIRST
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689703&extension=ts&play_token=HahH1k72N3
+#EXTINF:-1 ,CBS EUROPA
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689721&extension=ts&play_token=lpDKy9ehhf
+#EXTINF:-1 ,ROMANCE TV
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689758&extension=ts&play_token=LVZwH5pBkk
+#EXTINF:-1 ,FILMBOX ACTION
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689779&extension=ts&play_token=UHQyAmF2eF
+#EXTINF:-1 ,FILMBOX FAMILY
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689781&extension=ts&play_token=vkbG9fBuFN
+#EXTINF:-1 ,KINO POLSKA MUZYKA
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689799&extension=ts&play_token=WAWj5O7pCE
+#EXTINF:-1 ,ACTIVE FAMILY
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689778&extension=ts&play_token=xa9Iltzzzi
+#EXTINF:-1 ,EPIC DRAMA
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689731&extension=ts&play_token=3BsNTZHrCl
+#EXTINF:-1 ,VOD 205
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689815&extension=ts&play_token=C44SFS3v5b
+#EXTINF:-1 ,VOD 206
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689816&extension=ts&play_token=No9KGAIfoH
+#EXTINF:-1 ,VOD 207
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689817&extension=ts&play_token=txLD6aSZk0
+#EXTINF:-1 ,VOD 208
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689818&extension=ts&play_token=wA5jkqop8c
+#EXTINF:-1 ,TVP SERIALE
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689823&extension=ts&play_token=auADPYgscB
+#EXTINF:-1 ,TRAVEL CHANNEL
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689707&extension=ts&play_token=NSDpy1Vt02
+#EXTINF:-1 ,BIZNES24
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689708&extension=ts&play_token=EJO23uH0If
+#EXTINF:-1 ,CANAL+ DOKUMENT
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689710&extension=ts&play_token=0x2UE6dNSU
+#EXTINF:-1 ,T GEO PEOPLE
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689712&extension=ts&play_token=jDvkt4sOpj
+#EXTINF:-1 ,T GEO WILD
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689713&extension=ts&play_token=BJHYujLe1I
+#EXTINF:-1 ,TIONAL GEOGRAPHIC
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689714&extension=ts&play_token=eBUgkKT3YN
+#EXTINF:-1 ,ANIMAL PLANET
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689715&extension=ts&play_token=StnhT1pZNo
+#EXTINF:-1 ,PLANETE+
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689747&extension=ts&play_token=xOTJ6wOthP
+#EXTINF:-1 ,DISCOVERY
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689724&extension=ts&play_token=lbPYWMgXhS
+#EXTINF:-1 ,DISCOVERY SCIENCE
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689726&extension=ts&play_token=HGepeCuNW0
+#EXTINF:-1 ,E! ENTERTAINMENT
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689730&extension=ts&play_token=cvvgCMLfbU
+#EXTINF:-1 ,FOOD NETWORK
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689671&extension=ts&play_token=50Ebk0NXO2
+#EXTINF:-1 ,ADVENTURE
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689718&extension=ts&play_token=x2mPGObwMt
+#EXTINF:-1 ,H2
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689734&extension=ts&play_token=AzKyIE1IxW
+#EXTINF:-1 ,ID
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689736&extension=ts&play_token=GtQdqaf450
+#EXTINF:-1 ,POLSAT VIASAT EXPLORE
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689754&extension=ts&play_token=i34mRbsjWH
+#EXTINF:-1 ,POLSAT VIASAT HISTORY
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689755&extension=ts&play_token=jbJcDlg4i8
+#EXTINF:-1 ,POLSAT VIASATTURE
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689756&extension=ts&play_token=STOHwWs10a
+#EXTINF:-1 ,HISTORY
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689768&extension=ts&play_token=ZtAT2TZQct
+#EXTINF:-1 ,TVP HISTORIA
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689774&extension=ts&play_token=yxJxiwdJIv
+#EXTINF:-1 ,DISCOVERY HISTORIA
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689784&extension=ts&play_token=ddU3moqH2z
+#EXTINF:-1 ,DA VINCI LEARNING
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689788&extension=ts&play_token=UFBSdQy8rh
+#EXTINF:-1 ,HOME TV
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689798&extension=ts&play_token=Rb1cmWlK5t
+#EXTINF:-1 ,TRWAM
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=826828&extension=ts&play_token=eX1OjNuWtm
+#EXTINF:-1 ,TVN STYLE
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689637&extension=ts&play_token=NNG4moi0T8
+#EXTINF:-1 ,TVN TURBO
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689638&extension=ts&play_token=TqKHNnRkEW
+#EXTINF:-1 ,POLONIA
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689770&extension=ts&play_token=EqIXaTOG0K
+#EXTINF:-1 ,13 ULICA
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689660&extension=ts&play_token=GZbL4MjK9R
+#EXTINF:-1 ,FOKUS TV
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689670&extension=ts&play_token=hOkGAzw6ih
+#EXTINF:-1 ,PULS 2
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689673&extension=ts&play_token=rfjFFVEu2I
+#EXTINF:-1 ,PULS
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689677&extension=ts&play_token=C5HtnWQCMg
+#EXTINF:-1 ,TNT
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689679&extension=ts&play_token=daPdNupYNI
+#EXTINF:-1 ,BBC BRIT
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689702&extension=ts&play_token=rPtrxKdYlo
+#EXTINF:-1 ,BBC LIFESTYLE
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689717&extension=ts&play_token=Y7kBodYhX9
+#EXTINF:-1 ,CARTOON NETWORK
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689720&extension=ts&play_token=6OylTfC2W8
+#EXTINF:-1 ,DOMO+
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689728&extension=ts&play_token=u2mC8HOiL8
+#EXTINF:-1 ,KUCHNIA+
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689737&extension=ts&play_token=ENqEcW3OEk
+#EXTINF:-1 ,NOWA TV
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689745&extension=ts&play_token=cBIrMHoLN4
+#EXTINF:-1 ,POLSAT CAFE
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689748&extension=ts&play_token=IPoy2BR0xg
+#EXTINF:-1 ,POLSAT COMEDY CENTRAL EXTRA
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689749&extension=ts&play_token=TstIUnAEd5
+#EXTINF:-1 ,POLSAT DOKU
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689750&extension=ts&play_token=GmZfxcPOqX
+#EXTINF:-1 ,POLSAT GAMES
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689751&extension=ts&play_token=u15Z9PUk6c
+#EXTINF:-1 ,POLSAT PLAY
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689753&extension=ts&play_token=suBGzn2Rev
+#EXTINF:-1 ,SUPERSTACJA
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689761&extension=ts&play_token=rijTfi4WUc
+#EXTINF:-1 ,SUPER POLSAT
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689766&extension=ts&play_token=tpGVEunqVR
+#EXTINF:-1 ,HGTV
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689767&extension=ts&play_token=TVH7nRR1Nb
+#EXTINF:-1 ,TVP POLONIA 1
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689771&extension=ts&play_token=lOPZv3jcAX
+#EXTINF:-1 ,TVP 3
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689772&extension=ts&play_token=ut1L7gez0X
+#EXTINF:-1 ,TVP ROZRYWKA
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689775&extension=ts&play_token=oHv3hlrGLi
+#EXTINF:-1 ,TVP KOBIETA
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=1115300&extension=ts&play_token=rlw7qMiJ0J
+#EXTINF:-1 ,TELE 5
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689782&extension=ts&play_token=jcN39h43ox
+#EXTINF:-1 ,METRO
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689800&extension=ts&play_token=4omvN1ySbW
+#EXTINF:-1 ,WP
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689820&extension=ts&play_token=xhSh4VS4Jo
+#EXTINF:-1 ,ZOOM TV
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689822&extension=ts&play_token=b98LnUVND3
+#EXTINF:-1 ,BOOMERANG
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689709&extension=ts&play_token=4zMbsJDoQM
+#EXTINF:-1 ,BBC EARTH
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689716&extension=ts&play_token=0NIaex7yB6
+#EXTINF:-1 ,CBS REALITY
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689722&extension=ts&play_token=lUACi6Muvm
+#EXTINF:-1 ,DISNEY CHANNEL
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689727&extension=ts&play_token=A4AWikOayd
+#EXTINF:-1 ,MINIMINI
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689738&extension=ts&play_token=AQFktEO0Km
+#EXTINF:-1 ,NICKTOONS
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689740&extension=ts&play_token=jzSNkNW17L
+#EXTINF:-1 ,TEENNICK
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689741&extension=ts&play_token=EI7qI7AbTt
+#EXTINF:-1 ,MTV LIVE
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689743&extension=ts&play_token=dGcSweyKgv
+#EXTINF:-1 ,MTV POLSKA
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689744&extension=ts&play_token=o7SYbPDamA
+#EXTINF:-1 ,POLSAT MUSIC
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689752&extension=ts&play_token=fuREy6PBua
+#EXTINF:-1 ,SUNDANCE TV
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689760&extension=ts&play_token=YblGeB0KmN
+#EXTINF:-1 ,TELETOON+
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689762&extension=ts&play_token=yrKZ6R4gfG
+#EXTINF:-1 ,POLO TV
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689769&extension=ts&play_token=dtJayEQY4A
+#EXTINF:-1 ,BBC CBEEBIES
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689786&extension=ts&play_token=lWUbWbSIcu
+#EXTINF:-1 ,BABY TV
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689787&extension=ts&play_token=uWWtjExqCW
+#EXTINF:-1 ,DISCO POLO MUSIC
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689789&extension=ts&play_token=H0aVtvKvzm
+#EXTINF:-1 ,4FUN DANCE
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689790&extension=ts&play_token=wRwWzaLnyf
+#EXTINF:-1 ,4FUN GOLD HITS
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689791&extension=ts&play_token=VxyHgtWTtF
+#EXTINF:-1 ,4FUN.TV
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689792&extension=ts&play_token=zVvdGGQrqM
+#EXTINF:-1 ,DISNEY JUNIOR
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689793&extension=ts&play_token=zaFThuJd6G
+#EXTINF:-1 ,DISNEY XD
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689794&extension=ts&play_token=7pkIVUTkK7
+#EXTINF:-1 ,ESKA ROCK TV
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689795&extension=ts&play_token=J12R5svYoo
+#EXTINF:-1 ,ESKA TV EXTRA
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689797&extension=ts&play_token=29irFFJQQU
+#EXTINF:-1 ,NICK JR POLSKA
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689801&extension=ts&play_token=P2iaisQ2LO
+#EXTINF:-1 ,NICKELODEON
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689802&extension=ts&play_token=lcCM6a62ma
+#EXTINF:-1 ,MTV ROCKS
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689804&extension=ts&play_token=seS1W6FihM
+#EXTINF:-1 ,POLSAT JIM JAM
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689806&extension=ts&play_token=7fmEGaHfSz
+#EXTINF:-1 ,POWER TV
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689807&extension=ts&play_token=hu5CPenLRk
+#EXTINF:-1 ,STARS.TV
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689808&extension=ts&play_token=kvbmRJ8rWB
+#EXTINF:-1 ,TVS
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689811&extension=ts&play_token=NxSaMWcXrX
+#EXTINF:-1 ,MTV 00S
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689812&extension=ts&play_token=510JlxZawP
+#EXTINF:-1 ,VOX MUSIC TV
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689814&extension=ts&play_token=uurIYPQs4R
+#EXTINF:-1 ,PPV EVENTS
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=696887&extension=ts&play_token=qvID5ckWDT
+#EXTINF:-1 ,CANAL+ 360
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689652&extension=ts&play_token=l1Nke6gqqx
+#EXTINF:-1 ,CANAL+ EXTRA 1
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=1142683&extension=ts&play_token=sP5ViHjMdq
+#EXTINF:-1 ,CANAL+ EXTRA 2
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=1142681&extension=ts&play_token=BNb51WvK9G
+#EXTINF:-1 ,CANAL+ EXTRA 3
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=1142679&extension=ts&play_token=MTuDfdN9ft
+#EXTINF:-1 ,CANAL+ EXTRA 4
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=1142677&extension=ts&play_token=dusWlvMWhv
+#EXTINF:-1 ,GOLF CHANNEL
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689733&extension=ts&play_token=tS2GV7hVdg
+#EXTINF:-1 ,NSPORT+
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689746&extension=ts&play_token=Bbt20W3Yua
+#EXTINF:-1 ,STOPKLATKA TV
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=689783&extension=ts&play_token=vI50q0rvpF
+#EXTINF:-1 ,HIGH LEAGUE 6
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=863705&extension=ts&play_token=DlC2kfg8GZ
+#EXTINF:-1 ,PREMIER LEAGUE TOP EVENT
+http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:B7:52:12&stream=842137&extension=ts&play_token=0aJJ5Uion5
