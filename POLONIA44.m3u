@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
 #EXTINF:0 tvg-id="ext" group-title="EU | POLONIA",PL - POLSAT HD ◉
 http://supmag66.xyz:80/9c:8c:6e:45:7b:22/A6F7FD517613/67952
 #EXTINF:0 tvg-id="Polsat2.pl" group-title="EU | POLONIA",PL - POLSAT 2 HD
