@@ -1,0 +1,353 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/poland_bayrak.gif" group-title="Vabenemium.com",(PL) TVN 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=36162&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvn7hd.png" group-title="Vabenemium.com",(PL) TVN 7 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42941&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvphd.png" group-title="Vabenemium.com",(PL) TVP 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42933&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvp1hd.png" group-title="Vabenemium.com",(PL) TVP 1 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42936&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvp2hd.png" group-title="Vabenemium.com",(PL) TVP 2 HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42935&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvphd.png" group-title="Vabenemium.com",(PL) TVP 3
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42934&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/13ulicahd.png" group-title="Vabenemium.com",(PL) 13 Ulica 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43054&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/alekinoplus.png" group-title="Vabenemium.com",(PL) Ale Kino 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43048&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/amcushd.png" group-title="Vabenemium.com",(PL) AMC Polska
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43047&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/atmrozrywka.png" group-title="Vabenemium.com",(PL) ATM Rozrywka TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43044&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/axnhd.png" group-title="Vabenemium.com",(PL) AXN 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43042&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/axnblackpl.png" group-title="Vabenemium.com",(PL) AXN Black
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43043&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/axnwhitehd.png" group-title="Vabenemium.com",(PL) AXN White
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43040&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/axnspinhd.png" group-title="Vabenemium.com",(PL) AXN Spin HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43041&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Novela TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=183395&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Novela Plus
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=166411&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) CANAL+ FILM HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=56857&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cbseuropa.png" group-title="Vabenemium.com",(PL) CBS Europa 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43024&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cinemaxhd.png" group-title="Vabenemium.com",(PL) Cinemax 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43021&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cinemax2hd.png" group-title="Vabenemium.com",(PL) Cinemax 2 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43022&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/comedycentral.png" group-title="Vabenemium.com",(PL) Comedy Central
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43020&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Epic Drama HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51359&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cbseuropa.png" group-title="Vabenemium.com",(PL) Power TV 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=122588&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/filmboxaction.png" group-title="Vabenemium.com",(PL) Filmbox Action
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42999&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/filmboxarthouse.png" group-title="Vabenemium.com",(PL) Filmbox Arthouse
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42998&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/filmboxextrahd.png" group-title="Vabenemium.com",(PL) Filmbox Extra 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42997&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/filmboxfamily.png" group-title="Vabenemium.com",(PL) Filmbox Family
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42996&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/filmboxpremium.png" group-title="Vabenemium.com",(PL) FilmBox Premium 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42995&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) FOX HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51367&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/foxcomedy.png" group-title="Vabenemium.com",(PL) Fox Comedy HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42994&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/hbohd.png" group-title="Vabenemium.com",(PL) HBO 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42990&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/hbo2lamhd.png" group-title="Vabenemium.com",(PL) HBO 2 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42992&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/hbo3hd.png" group-title="Vabenemium.com",(PL) HBO 3 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42991&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/investigationdiscoveryushd.png" group-title="Vabenemium.com",(PL) Crime & Investigation 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42987&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kinopolska.png" group-title="Vabenemium.com",(PL) Kino Polska 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42986&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Kino TV 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51373&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/lifetimehd.png" group-title="Vabenemium.com",(PL) Lifetime 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42982&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/mtv.png" group-title="Vabenemium.com",(PL) MTV Polska HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42980&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatfilmhd.png" group-title="Vabenemium.com",(PL) Polsat Film HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42969&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsat.png" group-title="Vabenemium.com",(PL) Polsat Rodzina 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42964&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/stopklatkatv.png" group-title="Vabenemium.com",(PL) Stopklatka TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42950&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) TNT HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51399&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tv6-lichoridas.png" group-title="Vabenemium.com",(PL) TV6 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42943&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvprozrywka.png" group-title="Vabenemium.com",(PL) TVP Rozrywka
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42928&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpseriale.png" group-title="Vabenemium.com",(PL) TVP Seriale
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42927&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/4funtvpldance.png" group-title="Vabenemium.com",(PL) 4Fun Dance
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43053&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/4funtvplgoldhits.png" group-title="Vabenemium.com",(PL) 4Fun Gold Hits
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43052&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/4funtvpl.png" group-title="Vabenemium.com",(PL) 4Fun TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43051&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discopolomusic.png" group-title="Vabenemium.com",(PL) Disco Polo Music
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43017&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Eska Rock TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51362&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Eska TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51360&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Eska TV Extra
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51361&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kinopolskamuzyka.png" group-title="Vabenemium.com",(PL) Kino Polska Muzyka
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42985&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) MTV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51378&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/voxmusictv.png" group-title="Vabenemium.com",(PL) Music VOX
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42979&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsat.png" group-title="Vabenemium.com",(PL) Polsat Music HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42966&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) STARS.TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51395&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/vh1.png" group-title="Vabenemium.com",(PL) MTV 00s
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42924&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/babytv.png" group-title="Vabenemium.com",(PL) Baby TV [Multi-Audio]
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43039&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) BBC CBeebies HD 1080P
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51347&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/boomerang.png" group-title="Vabenemium.com",(PL) Boomerang HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43036&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cartoonnetwork.png" group-title="Vabenemium.com",(PL) Cartoon Network 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43026&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/davincilearning.png" group-title="Vabenemium.com",(PL) Da Vinci
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43018&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneychannel.png" group-title="Vabenemium.com",(PL) Disney Channel 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43012&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneyjuniorhd.png" group-title="Vabenemium.com",(PL) Disney JR
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43011&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneyxd.png" group-title="Vabenemium.com",(PL) Disney XD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43010&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Nick JR
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51380&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) NICKELODEON
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51381&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Nicktoons
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51382&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/jimjam.png" group-title="Vabenemium.com",(PL) Polsat JimJam
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42967&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) TVP ABC
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51407&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusserialehd-lichoridas.png" group-title="Vabenemium.com",(PL) Canal Seriale 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43031&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) CANAL+ SERIALE HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51354&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusplsport.png" group-title="Vabenemium.com",(PL) Canal Sport 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43029&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusplsport2.png" group-title="Vabenemium.com",(PL) Canal Sport 2 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43030&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusplsport2.png" group-title="Vabenemium.com",(PL) CANAL SPORT 3 HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=56855&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusplsport2.png" group-title="Vabenemium.com",(PL) CANAL SPORT 4 HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=56854&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eleven.png" group-title="Vabenemium.com",(PL) Eleven Sports 1 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43007&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eleven.png" group-title="Vabenemium.com",(PL) Eleven Sports 2 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43006&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eleven.png" group-title="Vabenemium.com",(PL) Eleven Sports 3 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43005&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eleven.png" group-title="Vabenemium.com",(PL) Eleven Sports 4 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43004&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport1hd.png" group-title="Vabenemium.com",(PL) Eurosport 1 HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43003&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport2hd.png" group-title="Vabenemium.com",(PL) EuroSport 2 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43002&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/extremesportshd.png" group-title="Vabenemium.com",(PL) Extreme Sports 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43001&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/fightboxhd.png" group-title="Vabenemium.com",(PL) Fightbox 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43000&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Food Network HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51365&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nsportplushd.png" group-title="Vabenemium.com",(PL) nSport 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42975&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/paramountchannel.png" group-title="Vabenemium.com",(PL) Paramount Channel 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42974&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsport.png" group-title="Vabenemium.com",(PL) Polsat Sport 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42961&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsportextra.png" group-title="Vabenemium.com",(PL) Polsat Sport Extra 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42962&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsportfighthd.png" group-title="Vabenemium.com",(PL) Polsat Sport Fight 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42960&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Polsat Sport News HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51390&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsport.png" group-title="Vabenemium.com",(PL) Polsat Sport Premium 1 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42959&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsport.png" group-title="Vabenemium.com",(PL) Polsat Sport Premium 2 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42958&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsport.png" group-title="Vabenemium.com",(PL) Polsat Sport Premium PPV 4 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42956&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) SPORT KLUB
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51394&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpsporthd.png" group-title="Vabenemium.com",(PL) TVP Sport 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42926&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Active Family
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51345&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/adventurehd.png" group-title="Vabenemium.com",(PL) Adventure 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43049&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/animalplanethd.png" group-title="Vabenemium.com",(PL) Animal Planet HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43045&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bbcearth.png" group-title="Vabenemium.com",(PL) BBC Earth 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43038&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) BBC FIRST
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51348&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bbchd.png" group-title="Vabenemium.com",(PL) BBC HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43037&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplus1hd-lichoridas.png" group-title="Vabenemium.com",(PL) Canal 1 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43035&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusfamily.png" group-title="Vabenemium.com",(PL) Canal Family 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43032&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) CANAL HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51350&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Canal+ HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51353&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cbsreality.png" group-title="Vabenemium.com",(PL) CBS Reality 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43023&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discoveryhd.png" group-title="Vabenemium.com",(PL) Discovery 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43016&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Discovery Historia
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51356&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discoverylifehd.png" group-title="Vabenemium.com",(PL) Discovery Life 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43015&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discoverysciencehd.png" group-title="Vabenemium.com",(PL) Discovery Science 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43014&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discoveryturboxtra.png" group-title="Vabenemium.com",(PL) Discovery Turbo Xtra HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43013&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/domoplushd.png" group-title="Vabenemium.com",(PL) Domo+ 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43009&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) DTX
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51357&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) E! Entertainment
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51358&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Fokus TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51364&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Golf Channel HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51368&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/hgtv.png" group-title="Vabenemium.com",(PL) HGTV 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42989&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/historyhd.png" group-title="Vabenemium.com",(PL) History 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42988&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) ID TV 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51371&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kuchniaplushd.png" group-title="Vabenemium.com",(PL) Kuchnia HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42983&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Metro HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51376&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/miniminiplus.png" group-title="Vabenemium.com",(PL) MiniMini 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42981&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeous.png" group-title="Vabenemium.com",(PL) National Geographic 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42978&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeowildhd.png" group-title="Vabenemium.com",(PL) Nat Geo Wild 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42976&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) NOWA HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51383&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nutatvplhd.png" group-title="Vabenemium.com",(PL) Nuta TV 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43050&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Planete+ HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51385&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Polo TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51386&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsat2hd.png" group-title="Vabenemium.com",(PL) Polsat 2 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42973&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Polsat Doku HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51387&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatviasatexplorehd.png" group-title="Vabenemium.com",(PL) Polsat Viasat Explore 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42953&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatviasathistoryhd.png" group-title="Vabenemium.com",(PL) Polsat Viasat History 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42952&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatviasatnature.png" group-title="Vabenemium.com",(PL) Polsat Viasat Nature
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42951&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Red Carpet TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51392&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Romance TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51393&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/scifi-lichoridas.png" group-title="Vabenemium.com",(PL) SciFi Universal
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=43028&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sundancetv.png" group-title="Vabenemium.com",(PL) Sundance TV 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42949&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Super Polsat 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51396&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) teleTOON HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=56858&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tlchd.png" group-title="Vabenemium.com",(PL) TLC HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42948&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Travel Channel HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51402&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ttv.png" group-title="Vabenemium.com",(PL) TTV 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42947&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpulshd.png" group-title="Vabenemium.com",(PL) TV Puls 2 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42946&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpulshd.png" group-title="Vabenemium.com",(PL) TV Puls 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42945&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) TV REPUBLIKA
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51404&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) TVN 24 Bis
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51405&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvn24hd.png" group-title="Vabenemium.com",(PL) TVN 24 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42942&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvnfabula.png" group-title="Vabenemium.com",(PL) TVN Fabuła 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42940&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvnstyle.png" group-title="Vabenemium.com",(PL) TVN Style 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42938&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvnturbohd.png" group-title="Vabenemium.com",(PL) TVN Turbo 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42937&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvphistoria.png" group-title="Vabenemium.com",(PL) TVP Historia
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42932&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpinfo.png" group-title="Vabenemium.com",(PL) TVP Info 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42931&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpkultura.png" group-title="Vabenemium.com",(PL) TVP Kultura
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42930&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvppolonia.png" group-title="Vabenemium.com",(PL) TVP Polonia
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42929&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvsilesia.png" group-title="Vabenemium.com",(PL) TVS
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=47241&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) wPolsce.pl
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51415&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Zoom TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51416&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Vabenemium.com",(PL) Warner Tv
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=129229&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Vabenemium.com",(PL) Tele5
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=129227&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Vabenemium.com",(PL) Wydarzenia 24
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=129226&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Vabenemium.com",(PL) Nat Geo People 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=129225&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Vabenemium.com",(PL) Ci Polsat 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=129224&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Vabenemium.com",(PL) Canal Plus Domo 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=129223&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Vabenemium.com",(PL) Antena
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=129219&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Vabenemium.com",(PL) History 2 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=129218&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Vabenemium.com",(PL) 4Fun Kids
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=129215&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Vabenemium.com",(PL) Music Box Polska
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=129214&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsat.png" group-title="Vabenemium.com",(PL) Polsat 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42970&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatcafehd.png" group-title="Vabenemium.com",(PL) Polsat Cafe 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42971&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatnewshd.png" group-title="Vabenemium.com",(PL) Polsat News 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42965&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Polsat News 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51388&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="Vabenemium.com",(PL) Polsat Play HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=51389&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/4sevenhd.png" group-title="Vabenemium.com",(PL) TV4 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42944&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/satlogo/poland/fight_klub_pl.jpg" group-title="Vabenemium.com",(PL) Fight Klub 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=119657&extension=ts
