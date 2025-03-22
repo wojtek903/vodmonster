@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="https://epg.ovh/pl.xml"
+﻿#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Ogólne",TVP
 http://109.233.89.166/TVP_HD/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Ogólne",TVP 1
