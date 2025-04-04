@@ -1,0 +1,355 @@
+﻿#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97819&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 1
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97817&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 2
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97818&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",WPOLSCE.24
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16529&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP INFO
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=560148&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TV REPUBLIKA
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16506&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=560149&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TV4
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97886&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVN
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97891&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POLSAT
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97875&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POLSAT 2
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97871&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POLSAT NEWS
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97822&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POLSAT NEWS 2
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16519&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVN 24
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97888&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TTV
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97884&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NOVELAS+
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=560198&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVN 24 BIS
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97894&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",SUPER POLSAT
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97880&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POLSAT PLAY
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16651&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POLSAT CAFE
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97872&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POLSAT SERIALE
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=206208&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POLSAT RODZINA
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16523&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POLSAT GAMES
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16524&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ROMANCE TV
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97877&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVN 7
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97889&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVN STYLE
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97892&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVN TURBO
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97893&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVN FABULA
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97890&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TV6
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97887&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TV PULS
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97885&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",PULS 2
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=241838&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP POLONIA
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16509&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CANAL+ 4K
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=570168&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVS
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16670&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TV TRWAM
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=585465&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOKUS TV
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16544&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP ROZRYWKA
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16534&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP KULTURA
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16626&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",WP
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16546&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TBN POLSKA
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=241840&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TV OKAZJE
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16508&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TV KUJAWY
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16683&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TELE 5
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=241842&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NOVELA TV
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=186337&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TV TORUN
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16553&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ZOOM TV
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16528&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",STOPKLATKA TV
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16647&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP SPORT
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97821&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NSPORT
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97869&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CANAL SPORT
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97847&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CANAL+ SPORT
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16564&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CANAL SPORT 2
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97846&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CANAL+ SPORT 2
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16565&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CANAL+ SPORT 3
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16566&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CANAL+ SPORT 4
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16567&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CANAL+ EXTRA 1
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=628625&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CANAL+ EXTRA 2
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=628624&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CANAL+ EXTRA 3
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=628623&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CANAL+ EXTRA 4
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=628622&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CANAL+ NOW
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16563&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POLSAT SPORT EXTRA
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97824&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POLSAT SPORT FIGHT
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16569&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POLSAT SPORT
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97825&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POLSAT SPORT NEWS
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16571&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POLSAT SPORT PREMIUM 1
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97829&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POLSAT SPORT PREMIUM 2
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16573&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",EUROSPORT 1
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97831&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",EUROSPORT 2
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16579&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ELEVEN SPORTS 1
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=109137&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ELEVEN SPORTS 2
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97826&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ELEVEN SPORTS 3
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97827&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ELEVEN SPORTS 4
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97828&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",GOLF CHANNEL
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16560&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MOTOWIZJA
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16555&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",EXTREME SPORTS
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16558&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FIGHTBOX
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97832&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NUTA TV
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307730&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POLSAT MUSIC
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307731&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",DISCO POLO MUSIC
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307732&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MTV POLSKA
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307734&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MTV LIVE
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307735&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POLO TV
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307737&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",STARS TV
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307738&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",4FUN TV
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307739&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",4FUN GOLD HITS
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307740&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",4FUN DANCE
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307741&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESKA ROCK TV
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307742&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESKA TV EXTRA
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307743&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",VOX MUSIC TV
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307745&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NAT GEO WILD
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16587&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NATIONAL GEOGRAPHIC
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16588&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NAT GEO PEOPLE
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16586&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",DISCOVERY
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97852&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",DISCOVERY SCIENCE
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16590&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",DISCOVERY INVESTIGATION
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97863&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",DISCOVERY LIFE
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16653&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",DISCOVERY HISTORIA
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16589&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ANIMAL PLANET
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16606&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BBC EARTH
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97839&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BBC BRIT
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16538&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BBC FIRST
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16594&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BBC LIFESTYLE
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16595&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",E! ENTERTAINMENT
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97830&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HISTORY
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97862&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HISTORY 2
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16585&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POLSAT DOKU
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97873&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POLSAT VIASAT EXPLORE
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16597&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POLSAT VIASAT HISTORY
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16596&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POLSAT VIASAT NATURE
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16598&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CRIME+ INVESTIGATION
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=245360&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CANAL+ KUCHNIA
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97866&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CANAL+ DOKUMENT
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97842&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CANAL+ DOMO
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16622&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",DA VINCI LEARNING
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=245362&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TRAVEL CHANNEL
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16604&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TLC
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97882&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",PLANETE+
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16539&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ADVENTURE
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=245369&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HGTV
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97861&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",DTX
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97853&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOOD NETWORK
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97856&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",AXN
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307649&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",AXN WHITE
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307651&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",AXN BLACK
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307652&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",AXN SPIN
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307653&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",AMC
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307655&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",13 ULICA
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307657&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP SERIALE
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307659&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",COMEDY CENTRAL
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307661&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307663&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX COMEDY
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307665&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HBO
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307667&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HBO 2
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307669&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HBO 3
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307671&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS EUROPA
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307673&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS REALITY
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307675&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CANAL+ 1
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307677&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CANAL+ FILM
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307679&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CANAL+ SERIALE
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307681&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CANAL+ FAMILY
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307683&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CINEMAX
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307684&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CINEMAX 2
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307686&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP HISTORIA
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307688&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",KINO TV
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307690&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",KINO POLSKA
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307692&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",SUNDANCE TV
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307694&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ALE KINO
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307695&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FILMBOX PREMIUM
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307696&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FILMBOX EXTRA
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307698&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FILMBOX ACTION
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307700&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FILMBOX ARTHOUSE
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307701&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FILMBOX FAMILY
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307702&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NOWA TV
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307703&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",VOD 207
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307704&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",VOD 208
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307705&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",VOD 205
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307706&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",VOD 206
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307707&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",SCIFI
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307709&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POLSAT FILM
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307711&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",PARAMOUNT NETWORK
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307713&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ACTIVE FAMİLY
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307714&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",METRO
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307715&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",EPIC DRAMA
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=307716&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MINIMINI
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97868&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POLSAT JIM JAM
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16612&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TELETOON
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97881&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TELETOON+
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16613&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",DISNEY JR
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16614&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",DISNEY XD
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16615&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",DISNEY CHANNEL
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16616&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BOOMERANG
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=97841&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP ABC
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16618&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NICKELODEON
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16619&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NICKTOONS
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16620&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BABY TV
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16623&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CARTOON NETWORK
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16624&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBEEBIES
+http://izle.atak.live:8080/play/live.php?mac=00:1A:79:07:bc:d8&stream=16625&extension=ts
