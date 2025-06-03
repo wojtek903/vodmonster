@@ -1,0 +1,389 @@
+﻿#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvphd.png" group-title="📺 Ogólne", TVP
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42933&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvp1hd.png" group-title="📺 Ogólne", TVP 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42936&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvp2hd.png" group-title="📺 Ogólne", TVP 2 
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42935&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", TV REPUBLIKA
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51404&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", wPolsce 24
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51415&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/poland_bayrak.gif" group-title="📺 Ogólne", TVN
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=36162&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvn7hd.png" group-title="📺 Ogólne", TVN 7
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42941&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvphd.png" group-title="📺 Ogólne", TVP 3
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42934&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólne", TVC 
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=189246&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/hbohd.png" group-title="🎬 Kino", HBO
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42990&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/hbo2lamhd.png" group-title="🎬 Kino", HBO 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42992&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/hbo3hd.png" group-title="🎬 Kino", HBO 3
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42991&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/filmboxpremium.png" group-title="🎬 Kino", FilmBox Premium
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42995&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/filmboxextrahd.png" group-title="🎬 Kino", Filmbox Extra
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42997&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/filmboxarthouse.png" group-title="🎬 Kino", Filmbox Arthouse
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42998&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/filmboxaction.png" group-title="🎬 Kino", Filmbox Action
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42999&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/filmboxfamily.png" group-title="🎬 Kino", Filmbox Family
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42996&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/13ulicahd.png" group-title="🎬 Kino", 13 Ulica
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43054&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/alekinoplus.png" group-title="🎬 Kino", Ale Kino+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43048&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/amcushd.png" group-title="🎬 Kino", AMC Polska
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43047&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/atmrozrywka.png" group-title="🎧 Muzyka", TVP Rozrywka 
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43044&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/axnhd.png" group-title="🎬 Kino", AXN
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43042&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/axnblackpl.png" group-title="🎬 Kino", AXN Black
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43043&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/axnwhitehd.png" group-title="🎬 Kino", AXN White
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43040&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/axnspinhd.png" group-title="🎬 Kino", AXN Spin 
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43041&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", Novela TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=183395&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", Novela Plus
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=166411&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="🎬 Kino", Canal+ Film 
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=56857&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cbseuropa.png" group-title="📺 Ogólne", CBS Europa
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43024&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cinemaxhd.png" group-title="🎬 Kino", Cinemax
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43021&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cinemax2hd.png" group-title="🎬 Kino", Cinemax 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43022&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/comedycentral.png" group-title="🎬 Kino", Comedy Central
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43020&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="🎬 Kino", Epic Drama 
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51359&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cbseuropa.png" group-title="📺 Ogólne", Power TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=122588&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="🎬 Kino", FOX 
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51367&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/foxcomedy.png" group-title="📺 Ogólne", Fox Comedy 
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42994&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/investigationdiscoveryushd.png" group-title="📺 Ogólne", Crime & Investigation
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42987&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kinopolska.png" group-title="🎬 Kino", Kino Polska
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42986&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="🎬 Kino", Kino TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51373&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/lifetimehd.png" group-title="📺 Ogólne", Lifetime
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42982&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatfilmhd.png" group-title="🎬 Kino", Polsat Film 
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42969&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsat.png" group-title="📺 Ogólne", Polsat Rodzina
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42964&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/stopklatkatv.png" group-title="📺 Ogólne", Stopklatka TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42950&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", TNT 
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51399&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tv6-lichoridas.png" group-title="📺 Ogólne", TV 6
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42943&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpseriale.png" group-title="📺 Ogólne", TVP Seriale
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42927&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/boomerang.png" group-title="📺 Ogólne", Boomerang  
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43036&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/davincilearning.png" group-title="📺 Ogólne", Da Vinci
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43018&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", TVP ABC
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51407&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusserialehd-lichoridas.png" group-title="🎬 Kino", Canal Seriale
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43031&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne",Canal+  Seriale
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51354&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusplsport.png" group-title="⚽️ Sport",Canal+ Sport
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43029&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusplsport2.png" group-title="⚽️ Sport", Canal Sport 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43030&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusplsport2.png" group-title="⚽️ Sport",Canal+ Sport 3
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=56855&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusplsport2.png" group-title="⚽️ Sport",Canal+ Sport 4 
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=56854&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nsportplushd.png" group-title="⚽️ Sport",Canal+ Sport 5
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42975&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eleven.png" group-title="⚽️ Sport", Eleven Sports 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43007&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eleven.png" group-title="⚽️ Sport", Eleven Sports 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43006&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eleven.png" group-title="⚽️ Sport", Eleven Sports 3
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43005&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eleven.png" group-title="⚽️ Sport", Eleven Sports 4
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43004&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport1hd.png" group-title="⚽️ Sport", Eurosport 1 
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43003&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport2hd.png" group-title="⚽️ Sport", EuroSport 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43002&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/extremesportshd.png" group-title="⚽️ Sport", Extreme Sports
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43001&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/fightboxhd.png" group-title="📺 Ogólne", Fightbox
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43000&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", Food Network 
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51365&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/paramountchannel.png" group-title="📺 Ogólne", Paramount Channel
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42974&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsport.png" group-title="⚽️ Sport", Polsat Sport
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42961&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsportextra.png" group-title="⚽️ Sport", Polsat Sport Extra
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42962&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsportfighthd.png" group-title="⚽️ Sport", Polsat Sport Fight
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42960&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="⚽️ Sport", Polsat Sport News HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51390&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsport.png" group-title="⚽️ Sport", Polsat Sport Premium 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42959&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsport.png" group-title="⚽️ Sport", Polsat Sport Premium 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42958&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsport.png" group-title="⚽️ Sport", Polsat Sport Premium PPV 4
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42956&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="⚽️ Sport", SPORT KLUB
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51394&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpsporthd.png" group-title="⚽️ Sport", TVP Sport
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42926&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="🎬 Kino", Active Family
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51345&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/adventurehd.png" group-title="🎬 Kino", Adventure
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43049&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/animalplanethd.png" group-title="📺 Ogólne", Animal Planet HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43045&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bbcearth.png" group-title="📺 Ogólne", BBC Earth
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43038&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", BBC FIRST
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51348&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bbchd.png" group-title="📺 Ogólne", BBC HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43037&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplus1hd-lichoridas.png" group-title="🎬 Kino", Canal 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43035&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusfamily.png" group-title="🎬 Kino", Canal Family
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43032&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="🎬 Kino", Canal+ HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51353&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cbsreality.png" group-title="📺 Ogólne", CBS Reality
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43023&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discoveryhd.png" group-title="📺 Ogólne", Discovery
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43016&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", Discovery Historia
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51356&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discoverylifehd.png" group-title="📺 Ogólne", Discovery Life
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43015&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discoverysciencehd.png" group-title="📺 Ogólne", Discovery Science
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43014&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discoveryturboxtra.png" group-title="📺 Ogólne", Discovery Turbo Xtra  
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43013&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", DTX
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51357&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", E! Entertainment
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51358&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", Fokus TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51364&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="⚽️ Sport", Golf Channel HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51368&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/hgtv.png" group-title="📺 Ogólne", HGTV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42989&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/historyhd.png" group-title="📺 Ogólne", History
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42988&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", ID TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51371&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kuchniaplushd.png" group-title="📺 Ogólne", Kuchnia HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42983&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", Metro HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51376&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeous.png" group-title="📺 Ogólne", National Geographic
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42978&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeowildhd.png" group-title="📺 Ogólne", Nat Geo Wild
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42976&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", NOWA  
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51383&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nutatvplhd.png" group-title="📺 Ogólne", Nuta TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43050&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", Planete+ 
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51385&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsat2hd.png" group-title="📺 Ogólne", Polsat 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42973&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", Polsat Doku  
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51387&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatviasatexplorehd.png" group-title="📺 Ogólne", Polsat Viasat Explore
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42953&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatviasathistoryhd.png" group-title="📺 Ogólne", Polsat Viasat History
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42952&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatviasatnature.png" group-title="📺 Ogólne", Polsat Viasat Nature
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42951&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", Red Carpet TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51392&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", Romance TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51393&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/scifi-lichoridas.png" group-title="📺 Ogólne", SciFi Universal
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43028&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sundancetv.png" group-title="📺 Ogólne", Sundance TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42949&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", Super Polsat
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51396&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tlchd.png" group-title="📺 Ogólne", TLC HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42948&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", Travel Channel  
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51402&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ttv.png" group-title="📺 Ogólne", TTV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42947&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpulshd.png" group-title="📺 Ogólne", TV Puls 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42946&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpulshd.png" group-title="📺 Ogólne", TV Puls
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42945&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", TVN 24 Bis
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51405&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvn24hd.png" group-title="📺 Ogólne", TVN 24
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42942&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvnfabula.png" group-title="📺 Ogólne", TVN Fabuła
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42940&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvnstyle.png" group-title="📺 Ogólne", TVN Style
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42938&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvnturbohd.png" group-title="📺 Ogólne", TVN Turbo
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42937&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvphistoria.png" group-title="📺 Ogólne", TVP Historia
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42932&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpinfo.png" group-title="📺 Ogólne", TVP Info
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42931&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpkultura.png" group-title="📺 Ogólne", TVP Kultura
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42930&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvppolonia.png" group-title="📺 Ogólne", TVP Polonia
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42929&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvsilesia.png" group-title="📺 Ogólne", TVS
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=47241&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", Zoom TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51416&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólne", Warner Tv
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=129229&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólne", Tele5
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=129227&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólne", Wydarzenia 24
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=129226&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólne", Nat Geo People
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=129225&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólne", Ci Polsat
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=129224&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólne", Canal+ Domo
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=129223&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólne", Antena
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=129219&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólne", History 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=129218&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsat.png" group-title="📺 Ogólne", Polsat
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42970&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatcafehd.png" group-title="📺 Ogólne", Polsat Cafe
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42971&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatnewshd.png" group-title="📺 Ogólne", Polsat News
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42965&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", Polsat Play  
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51389&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="📺 Ogólne", Polsat News 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51388&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/4sevenhd.png" group-title="📺 Ogólne", TV4
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42944&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="📺TVN MIX",  TVN MOTO
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=188120&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="📺TVN MIX",  TVN PETROL
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=188119&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="📺TVN MIX",  TVN CZAS NA ŚLUB
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=188118&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="📺TVN MIX",  TVN KRYMINALNIE
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=188117&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="📺TVN MIX",  TVN KULINARNE PODRÓŻE
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=188116&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="📺TVN MIX",  TVN KULTOWE SERIALE
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=188115&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="📺TVN MIX",  TVN MILIONERZY
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=188114&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="📺TVN MIX",  TVN MOMENTY PRAWDY
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=188113&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="📺TVN MIX",  TVN PORA NA SHOW
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=188112&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="📺TVN MIX",  TVN PRAWO I ŻYCIE
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=188111&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="📺TVN MIX",  TVN RAJSKA MIŁOŚĆ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=188110&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="📺TVN MIX",  TVN REWOLUCJE W KUCHNI
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=188109&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="📺TVN MIX",  TVN SERIALE O KOBIETACH
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=188108&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="📺TVN MIX",  TVN SZKOŁA ŻYCIA
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=188107&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="📺TVN MIX",  TVN SZPITALNE HISTORIE
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=188106&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="📺TVN MIX",  TVN TALK SHOW
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=188105&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="📺TVN MIX",  TVN TELENOWELE
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=188104&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="📺TVN MIX",  TVN USTERKA
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=188103&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="📺TVN MIX",  TVN W DOMU
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=188102&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/tvnhd.png" group-title="📺TVN MIX",  TVN ŻYCIE JAK W BAJCE
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=188101&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/babytv.png" group-title="🧒 Bajki", Baby TV [Multi—Audio]
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43039&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneychannel.png" group-title="🧒 Bajki", Disney Channel
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43012&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cartoonnetwork.png" group-title="🧒 Bajki", Cartoon Network
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43026&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/jimjam.png" group-title="🧒 Bajki", Polsat Jim Jam
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42967&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/4funtv.png" group-title="🧒 Bajki", 4Fun Kids
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=129215&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="🧒 Bajki", Nick JR
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51380&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneyjuniorhd.png" group-title="🧒 Bajki", Disney JR
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43011&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneyxd.png" group-title="🧒 Bajki", Disney XD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43010&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="🧒 Bajki", Nicktoons
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51382&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="🧒 Bajki", Nickelodeon
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51381&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/miniminiplus.png" group-title="🧒 Bajki", MiniMini
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42981&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="🧒 Bajki", Teletoon
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=56858&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="🧒 Bajki", BBC CBeebies 
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51347&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="🎧 Muzyka", Mtv Live  
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51378&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/mtv.png" group-title="🎧 Muzyka", MTV Polska  
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42980&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/vh1.png" group-title="🎧 Muzyka", MTV 00s
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42924&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="🎧 Muzyka", Polo TV  
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51386&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/4funtvpl.png" group-title="🎧 Muzyka", 4Fun TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43051&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/4funtvpldance.png" group-title="🎧 Muzyka", 4Fun Dance
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43053&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/4funtvplgoldhits.png" group-title="🎧 Muzyka", 4Fun Gold Hits
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43052&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="🎧 Muzyka", Eska TV  
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51360&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="🎧 Muzyka", Eska Rock TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51362&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="🎧 Muzyka", Eska TV Extra
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51361&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discopolomusic.png" group-title="🎧 Muzyka", Disco Polo Music
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=43017&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kinopolskamuzyka.png" group-title="🎧 Muzyka", Kino Polska Muzyka
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42985&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="🎧 Muzyka", Stars.TV  
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=51395&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/voxmusictv.png" group-title="🎧 Muzyka", Vox Music  
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42979&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsat.png" group-title="🎧 Muzyka", Polsat Music  
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=42966&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎧 Muzyka", Music Box Polska
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=129214&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.222.188/MOVIE/darklogo/satlogo/poland/fight_klub_pl.jpg" group-title="⚽️ Sport", Fight Klub
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:5E:52:A5&stream=119657&extension=ts
