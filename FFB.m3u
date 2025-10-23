@@ -1,0 +1,499 @@
+﻿#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TVP%20HD.png" group-title="OGOLNE",TVP
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/a8ef46c5-142a-4c2a-bb0d-27fdb7ba3a36.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TVP%201.png" group-title="OGOLNE",TVP 1
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/172c116f-0e21-4c80-9146-327a2ee05918.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TVP%202%20HD.png" group-title="OGOLNE",TVP 2
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/5242aace-e131-4449-af51-46207be50da5.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/a1/REPUBLIKA%201.png" group-title="INFORMACYJNE",TV Republika 
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/610afe23-79a2-4d0d-b607-dbbe08297b50.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo8/wPolsce.pl%20sd.png" group-title="INFORMACYJNE",wPolsce 24
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/a299fb8e-7705-47b2-81c5-1c67120d0a0b.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TVP%203.png" group-title="OGOLNE",TVP 3
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/2fe9bbd2-4b22-4324-8180-dd6aee204b2f.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TVP%20Seriale.png" group-title="OGOLNE",TVP SERIALE
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/47400c2a-f645-47a3-860a-ee745a2ee678.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/TVP%20Rozrywka.png" group-title="OGOLNE",TVP Rozrywka
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/d4cd00a3-60f5-40dc-bfcf-0c5e228d4dc5.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/TVP%20Dokument.png" group-title="OGOLNE",TVP Dokument
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/d91afe3f-da34-4537-96b1-02dd5e1dc6eb.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo3/2/TVP%20Kultura.png" group-title="OGOLNE",TVP Kultura
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/77234e51-d22e-4941-9644-e4537a9f0691.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TVP%20Historia.png" group-title="OGOLNE",TVP Historia
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/d19b3e42-40ab-4a06-bfa1-d659d0d0c926.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TVP%20Polonia.png" group-title="OGOLNE",TVP Polonia
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/3ab29e79-8cf7-4f7b-9f7d-56ac82451e77.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/a2/ANTENA.png" group-title="OGOLNE",ANTENA
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/648835f7-46e6-4b32-bfae-2536848f708d.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo6/TVC.png" group-title="OGOLNE",TVC
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/23d51aa6-9daa-45d5-857f-a73f741f0655.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo9b/TVC%20SUPER.png" group-title="OGOLNE",TVC Super
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/86cd98f0-de2d-4cf7-818e-eac2d06134bb.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo3/2/home%20tv.png" group-title="OGOLNE",Home TV
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/cd50060a-0ab8-42c4-a245-473fab0e27a1.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo3/NOVELAS+.png" group-title="OGOLNE",NOVELAS+
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/cd69f9da-9fa1-4025-ae94-f2a396c7e652.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo3/trwam.png" group-title="OGOLNE",TV Trwam
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/a221dbe9-fe9c-448b-ac03-c888235c32f9.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/studiomed%20tv.png" group-title="OGOLNE",StudioMed TV
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/729629f0-1c3f-4504-a229-17cab8264f6d.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Polonia%201.png" group-title="OGOLNE",Polonia 1
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/dd450278-80f8-41a6-9aa8-b88785dd4332.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/Active+Family.png" group-title="OGOLNE",Active Family
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/f13879f3-bcd4-4321-9d62-313670edbd64.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/loga2/Canal%20+%20Kuchnia.png" group-title="OGOLNE",Canal + Kuchnia
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/3d582ae1-3590-4547-ba9d-0d79c98f9576.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Polsat%20HD.png" group-title="OGOLNE",Polsat
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/0affc19c-ec65-4558-a9a7-07f0445f341a.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Polsat%202%20HD.png" group-title="OGOLNE",Polsat 2
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/185dd46e-4702-42ac-84f3-a4ddcfdd9704.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Polsat%20Cafe%20HD.png" group-title="OGOLNE",Polsat Cafe
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/842750a0-b7fc-4261-bd56-2a68b03c5a27.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Polsat%20Film%20HD.png" group-title="OGOLNE",Polsat Film
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/d23ca912-3c76-4384-8609-b3efb74d6860.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Polsat%20Romans.png" group-title="OGOLNE",Polsat Seriale
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/ab79c293-a2d0-4352-addf-3abd775c056a.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/Polsat_Comedy_Central_Extra.png" group-title="OGOLNE",Polsat Comedy Central Extra
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/47026565-02f2-49ec-aa83-f0e12630be0d.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/aa/polsat%20rodzina.png" group-title="OGOLNE",Polsat Rodzina
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/f342f17c-f85c-4940-8192-e12f20065006.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Polsat%20Play%20HD.png" group-title="OGOLNE",Polsat Play
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/580e1210-a4e7-4538-a335-ba0778c2a88c.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Super%20Polsat%20HD.png" group-title="OGOLNE",Super Polsat
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/1e84efe5-b400-470a-847d-2ff4e511fdf6.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TVN%20HD.png" group-title="OGOLNE",TVN
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/52eaabda-2b85-4c6c-8a43-24e075a922da.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TVN.png" group-title="OGOLNE",TVN sd
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/5454a32f-40e3-46bc-bc60-aa4bc45451d9.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TVN%207%20HD.png" group-title="OGOLNE",TVN 7
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/1cffac83-277a-40ca-9811-b1748e2015ec.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TVN%20Style%20HD.png" group-title="OGOLNE",TVN STYLE
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/83688302-a1f4-4482-a09f-8a6379378980.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/TVN_turbo.png" group-title="OGOLNE",TVN Turbo
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/9526253e-28c9-465c-a285-cc66c0d4ad29.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TVN%20Fabula%20HD.png" group-title="OGOLNE",TVN Fabula
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/2e9ef668-baac-4c5a-9892-de28b83e2aaf.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/loga2/Canal%20+%20Domo.png" group-title="OGOLNE",Canal + Domo
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/eb369a8e-408e-4c8e-b89d-dd42485dafdb.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/BBC%20LIFESTYLE.png" group-title="OGOLNE",BBC Lifestyle
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/fb9add10-4719-43a3-bef4-19672c03b29b.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/bbc%20first.png" group-title="OGOLNE",BBC FIRST
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/195b8ff4-9dbc-4d34-a921-927337d99d0d.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/bbc%20brit.png" group-title="OGOLNE",BBC Brit
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/900e3f7a-d5df-461a-9b0f-b6aa7f9a17c8.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Motowizja%20HD.png" group-title="OGOLNE",Motowizja
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/0b195f0b-59cf-4851-b342-2a5d435b911b.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo9a/Viasat%20True%20Crime.png" group-title="OGOLNE",VIASAT TRUE CRIME
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/f0cb48f2-a26c-454c-bad6-3e8646a6a6b5.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/DTX%20HD.png" group-title="OGOLNE",Turbo Xtra Poland
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/506e19fa-4d26-4830-8eca-9bde1afa12f6.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TV%204%20HD.png" group-title="OGOLNE",TV4
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/2b98fc49-f914-4b76-83dc-50a16d039e8f.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TV%20Puls%20HD.png" group-title="OGOLNE",TV PULS
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/53c57b24-742a-42d0-ae2b-998408f4c19c.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/TV+OKAZJE.png" group-title="OGOLNE",TV Okazje
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/26e34e37-6cf4-49d8-bcf3-f1a2eac28c57.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Puls%202%20HD.png" group-title="OGOLNE",Puls 2
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/e0286f10-a4c8-45fb-983c-f6ebec907fd8.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Puls%202%20HD.png" group-title="OGOLNE",TV Puls 2 
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/aef35b7b-ac74-4207-9db9-b1bfae15be28.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/COMEDY%20CENTRAL%20HD.png" group-title="OGOLNE",Comedy Central
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/b78c60f0-b186-485a-822c-2ee6822b006f.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/ZOOM%20TV.png" group-title="OGOLNE",Zoom TV
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/95b37a9f-4e7f-4c72-9595-5c1b27324cab.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TVS.png" group-title="OGOLNE",TVS
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/38e7bf79-ed62-4242-968d-df18f04181de.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TTV%20HD.png" group-title="OGOLNE",TTV
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/52ad3825-5234-478e-9a73-c1ad25ec210b.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Food%20Network%20HD.png" group-title="OGOLNE",Food Network
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/f0aec56a-b757-4c8c-abee-bc3e224043d5.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/E!.png" group-title="OGOLNE",E! Entertainment
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/1edbd119-5fef-4b2f-b3ef-7bb9e27a49aa.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/WP.png" group-title="OGOLNE",WP
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/afd2ddbf-a0f9-481a-8dcd-fcfa8f97939b.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TLC%20HD.png" group-title="OGOLNE",TLC
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/37bc246f-fc22-4dad-be9a-3f5a3e05f934.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TLC%20HD.png" group-title="OGOLNE",TLC sd
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/6d5d7322-e688-442e-85ac-5c7bb4bdcf37.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/Sundance%20tv.png" group-title="OGOLNE",Sundance
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/e02f357c-de0f-461f-9928-949889a786fb.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/ROMANCE%20TV.png" group-title="OGOLNE",Romance TV
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/a58cea4f-b711-4935-ab88-5848b99d76e2.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Metro%20TV.png" group-title="OGOLNE",Metro
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/a5c5c78c-4b0f-496b-9606-55166ccb013f.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/HGTV%20HD.png" group-title="OGOLNE",HGTV
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/30abf4d3-2403-4e0a-9789-06750647c2c9.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/AMC%20HD.png" group-title="OGOLNE",AMC
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/a48a7e6f-13dd-4d33-9fa9-2ae54e8a7a6b.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TV%206%20HD.png" group-title="OGOLNE",TV6
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/9f075b25-a8e2-4801-9ed5-e599c6e281c4.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Tele%205.png" group-title="OGOLNE",TELE 5
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/6b9d57b3-eae1-4c94-9fd7-7e1a8913e620.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Stars%20TV.png" group-title="OGOLNE",STARS.TV
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/f78056d5-c76b-4ed5-9186-f02217dcfb48.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Power%20TV.png" group-title="OGOLNE",POWER TV
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/ca44c966-c2d9-48a4-aa6c-c22f1c95fd17.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Polo%20TV.png" group-title="OGOLNE",Polo tv live
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/6e627418-a319-4d09-a627-4b612193147d.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/nowa%20tv.png" group-title="OGOLNE",Nowa TV
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/62d1cae5-4864-4c79-9224-96e4a1dfe9f3.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/ID%20HD.png" group-title="OGOLNE",ID Poland
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/b41e4b45-4967-4f3f-b305-e304e5efac21.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/13Ulica.png" group-title="OGOLNE",13 ulica 
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/60eb4ead-3aa2-4808-babb-ff3b75b12175.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/Canal+%20PREMIUM%20FHD.png" group-title="FILMOWE",CANAL+ Premium
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/79a99ef7-c97f-4c53-b13e-55208f3b0088.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Canal+%201%20HD.png" group-title="FILMOWE",CANAL+1
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/f78acd5b-969e-46cf-9fee-f869ac1ed063.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Canal+%20Film.png" group-title="FILMOWE",CANAL+ FILM
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/363b5e38-3296-4957-a4e4-26a0bbde7737.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Canal+%20Film.png" group-title="FILMOWE",CANAL+ FILM sd
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/95de8048-40a0-403e-9fe5-430445236736.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Canal+%20Seriale%20HD.png" group-title="FILMOWE",CANAL+ SERIALE
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/6620d98a-57be-4924-931c-440e8691729c.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Canal+%20Family%20HD.png" group-title="FILMOWE",CANAL+ FAMILY
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/058bba6b-9a3a-4cf8-b7b5-60d86d7e3895.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/Canal++Dokument.png" group-title="FILMOWE",CANAL+ DOKUMENT
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/fba9548b-1627-465b-b0d4-98566a6babc2.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/HBO.png" group-title="FILMOWE",HBO
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/a6a7b4b0-0040-4061-8fc4-5bda19f3a22e.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/HBO2.png" group-title="FILMOWE",HBO 2
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/874d5211-60c1-45d6-85f0-8515241bd816.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/HBO3.png" group-title="FILMOWE",HBO 3
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/5f04d34d-5bb7-428f-b9f7-0c088bf7c6f9.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/VOD%208.png" group-title="FILMOWE",VOD 208
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/ffb9bcf6-96e8-4a7a-9bcd-a32a8b399f5a.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/VOD%207.png" group-title="FILMOWE",VOD 207
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/1e51c6c3-a5a2-4f0e-8482-d1bc9f94d2e5.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/VOD%206.png" group-title="FILMOWE",VOD 206
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/4a4bb8f0-c5bc-4001-94ed-1b8d628e097d.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/VOD%205.png" group-title="FILMOWE",VOD 205
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/9dac17c7-98be-4b05-8ef2-038aa3a37cc4.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo9c/warner%20tv.png" group-title="FILMOWE",Warner TV
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/ba77a3d4-a3b0-4e02-8341-ff2b03dec2ac.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo8/Filmbox_Family%20sd.png" group-title="FILMOWE",FilmBox Family 
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/8d22c96f-8ceb-4b37-b947-12d5aa8735e7.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo8/Filmbox_Action%20sd.png" group-title="FILMOWE",FilmBox Action 
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/643d59c6-33c0-4fec-895c-ef64d083e3dc.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/KinoTVPL.png" group-title="FILMOWE",Kino TV
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/2f62bd46-9b59-4a4f-aca0-1f1fe3934bf3.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/Filmbox_Premium.png" group-title="FILMOWE",Filmbox Premium
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/07744a24-f5ba-4c69-b101-74cb8471573e.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/Filmbox_Premium.png" group-title="FILMOWE",Filmbox Premium SD live
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/8c658f2b-0c6c-448a-a9ef-bfec026e4724.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/Filmbox_Extra.png" group-title="FILMOWE",FilmBox Extra
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/46ef8dd0-ba4d-4c50-a7c3-378a5b5f2ef9.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Cinemax%202%20HD.png" group-title="FILMOWE",Cinemax 2
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/23c03018-c63a-4c8a-9291-4cdbf63aea78.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/Polsat_crime.png" group-title="FILMOWE",CI Polsat
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/29b8c936-bfdc-4ec5-a52e-675d350023de.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/CBS%20Europa%20HD.png" group-title="FILMOWE",CBS Europa
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/3cdef0c8-50e2-4d21-b537-c374009267fb.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/CBS%20Reality.png" group-title="FILMOWE",CBS Reality
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/1b0277e0-1492-4dfd-858a-8dd6d511a1e6.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/AXN.png" group-title="FILMOWE",AXN
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/02f1bafb-2334-4f5e-aa75-0b3e86f756e6.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/AXN_spin.png" group-title="FILMOWE",AXN SPIN
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/0577b50c-92ca-49bc-a769-48203eb96bfd.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo8/AXN_spin%20sd.png" group-title="FILMOWE",AXN Spin sd  live
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/0e735d35-29e3-4287-84ed-2cce48e7525f.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/AXN_black.png" group-title="FILMOWE",AXN Black
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/d41f8c5b-99a1-4e6a-87eb-dd89afcbed0d.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/AXN_white.png" group-title="FILMOWE",AXN White
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/5567fd75-41fd-4dcb-8542-128e0a13854f.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/paramount%20channel.png" group-title="FILMOWE",Paramount Channel
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/ab064900-c3e5-4765-a035-2a2e16a04896.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/FOX%20HD.png" group-title="FILMOWE",FX
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/d639d14f-e32b-4e00-b938-9fdac055d55b.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/FOX%20COMEDY%20HD.png" group-title="FILMOWE",Fx Comedy
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/44223cbf-5656-43f5-96fc-d4dc75b7fd53.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo7/STOPKLATKA%20SD.png" group-title="FILMOWE",Stopklatka TV
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/61a66118-9243-4dde-91a7-c267c5bbfdc5.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/scifi%20HD.png" group-title="FILMOWE",SciFi
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/4d0f3a45-f760-4f2c-9128-b345c194e95d.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/Kino_Polska.png" group-title="FILMOWE",Kino Polska
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/d1426b57-bfe6-4bb4-bc63-561fd9e49b1d.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/EpicDrama.png" group-title="FILMOWE",Epic Drama
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/57781ad2-924d-4505-9f80-d213df1891f8.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Ale%20Kino+%20HD.png" group-title="FILMOWE",Ale kino+
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/6ce500f5-cfe1-446d-a30a-03dd20fd1e7f.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo9b/Canal+%20360.png" group-title="SPORT",CANAL+ 360
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/f9384d37-e5f2-4684-8b6e-2b5a421d5c80.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo9b/Canal++Extra+1.png" group-title="SPORT",CANAL+ SPORT EXTRA 1
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/180c256e-3850-47d8-87c3-5ef67550c998.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo9b/Canal++Extra+2.png" group-title="SPORT",CANAL+ SPORT EXTRA 2
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/cbc3f2d1-65f8-4b50-b544-e546683faae7.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/a1/BUNDESLIGA/Eurosport%201%20FHD.png" group-title="SPORT",Eurosport 1
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/02d3c8c4-643b-4713-b688-c9fdc848914b.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/a1/BUNDESLIGA/Eurosport%202%20FHD.png" group-title="SPORT",Eurosport 2
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/3297c05c-b8a4-4cf5-aa16-dfb098d66094.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/mlogo/red%20bull%20tv%20live.png" group-title="SPORT",Red Bull TV Live (test)
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/cae34aee-85f7-4023-afe7-5f9aaa77f7d2.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TVP%20Sport%20HD.png" group-title="SPORT",TVP Sport
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/9e1b7c04-bdda-456c-93a5-e8ba077984e2.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TVP%20Sport%20HD.png" group-title="SPORT",TVP Sport sd
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/8a92fdf5-fd3f-44b2-abd6-3b081debc027.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Canal+%20Sport%20HD.png" group-title="SPORT",CANAL+ SPORT
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/a5159343-b83f-4c28-abb4-9b0d7f8a9ec3.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Canal+%20Sport%202%20HD.png" group-title="SPORT",CANAL+ SPORT 2
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/785efb3d-4338-4102-af5a-846c8864786a.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/Canal++Sport+3+HD.png" group-title="SPORT",CANAL+ SPORT 3
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/6e69cff6-eee7-49b1-8485-489a09bb3566.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/Canal++Sport+4+HD.png" group-title="SPORT",CANAL+ SPORT 4
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/31397f26-90bf-40a5-89f8-a1c14e051558.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/loga2/Canal++Sport+5.png" group-title="SPORT",CANAL+ SPORT 5
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/63a09844-a365-4031-9c67-67d1bf458681.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Eleven%20Sports%201.png" group-title="SPORT",Eleven Sports 1
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/aee6b1a1-ea42-4460-ac27-beff8c0c7c7f.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Eleven%20Sports%202.png" group-title="SPORT",Eleven Sports 2
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/c0d26505-877c-41e7-a313-447c947b8180.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Eleven%20Sports%203.png" group-title="SPORT",Eleven Sports 3
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/bfd053f5-3df7-4eb1-bd95-ef034e3bae2b.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Eleven%20Sports%204.png" group-title="SPORT",Eleven Sports 4
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/7d4839e3-02bd-4aab-b999-a7e7fe580056.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Polsat%20Sport%20Fight%20HD.png" group-title="SPORT",Polsat Sport Fight
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/8cacf9b0-7431-41c9-8dbf-f3dd5b959e93.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Polsat%20Sport%20HD.png" group-title="SPORT",Polsat Sport 1
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/184cb58b-1318-44bc-9d63-30ad1a785d81.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Polsat%20Sport%20News%20HD.png" group-title="SPORT",Polsat Sport 3
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/b16ffbcb-5612-400e-ac22-6e8247ee6e38.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/aa/polsat%20games.png" group-title="SPORT",Polsat Games
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/cf9419a5-5e73-430c-a384-315cecb17cd5.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Sport%20Klub%20HD.png" group-title="SPORT",Sportklub
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/6edc67da-3ac9-457d-99e5-0de4e62c4368.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Golf%20Channel.png" group-title="SPORT",Golf Channel
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/47579bcd-8c62-4a19-9b5c-415df5d99a82.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/FightKlub%20HD.png" group-title="SPORT",Fightklub
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/a24a3744-612c-431e-ad10-3655ffd5b7ee.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/FightBoxHD.png" group-title="SPORT",Fightbox
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/1925b677-017b-4023-8a12-0df9eddc5891.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/extreme%20sports.png" group-title="SPORT",Extreme Sports
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/86c30e83-c741-41ea-bff6-162e3d74e482.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo7/HORSE%20TV.png" group-title="SPORT",HORSE TV  
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/65190889-319f-44d5-b618-cea448dafacd.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo7/TENIS%20CHANNEL.png" group-title="SPORT",TENIS CHANNEL test2
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/5dfb2800-38e9-46d0-b5df-61aa95e8d814.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/a1/BUNDESLIGA/BUNDESLIGA%201.png" group-title="SPORT",DE: Sky Sport Bundesliga 1
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/a05ace0e-2423-4acb-829a-e85e289d9702.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/a1/BUNDESLIGA/BUNDESLIGA%202.png" group-title="SPORT",DE: Sky Sport Bundesliga 2
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/96a7b179-e9a7-45d1-a1b4-41f8d13aa98f.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/a1/BUNDESLIGA/BUNDESLIGA%203.png" group-title="SPORT",DE: Sky Sport Bundesliga 3
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/a2b799bb-9802-417a-a36f-b5b991c455c4.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/a1/BUNDESLIGA/BUNDESLIGA%204.png" group-title="SPORT",DE: Sky Sport Bundesliga 4
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/0eb289ee-2515-4a8e-9ae6-3de1e9e5b7e4.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/a1/BUNDESLIGA/BUNDESLIGA%205.png" group-title="SPORT",DE: Sky Sport Bundesliga 5
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/f291169b-c731-41eb-909e-f75c8d98c224.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo9/BUNDESLIGA%206.png" group-title="SPORT",DE: Sky Sport Bundesliga 6
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/9cd02155-dae8-4a5c-9d14-de67e025237a.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo9/BUNDESLIGA%207.png" group-title="SPORT",DE: Sky Sport Bundesliga 7
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/2281ad1c-11cf-444e-bc69-1df5f879cbf0.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo9/BUNDESLIGA%209.png" group-title="SPORT",DE: Sky Sport Bundesliga 9
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/1b241825-c340-4934-8e62-cc4f97157bfe.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo9/BUNDESLIGA%2010.png" group-title="SPORT",DE: Sky Sport Bundesliga 10
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/0dbf1fd2-f666-4471-bb1d-29260ba8f585.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo9c/Wydarzenia%2024.png" group-title="INFORMACYJNE",Wydarzenia 24
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/107b6163-916e-4e2f-a740-5ca856873a0f.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo9/CBS%20NEWS%20LIVE.png" group-title="INFORMACYJNE",CNBC
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/4c63faaf-074e-49e3-83db-e435959e1ef6.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo9/TV%20BIZNESOWA.png" group-title="INFORMACYJNE",TV Biznesowa  
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/2c1a320f-e5f6-4bf6-895a-7cf920b10b09.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo9c/Polsat%20News%20Polityka.png" group-title="INFORMACYJNE",Polsat news polityka
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/7ace779f-274a-4a27-bbba-2b07cf86baaa.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TVP%20Info.png" group-title="INFORMACYJNE",TVP INFO
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/16b55fc0-7964-487f-aef3-f8bd6bcb2d92.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Polsat%20News%20HD.png" group-title="INFORMACYJNE",Polsat News
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/90177612-975a-4213-a159-b5b5cd6c5bc9.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Polsat%20News%202.png" group-title="INFORMACYJNE",Polsat News 2
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/ed2319e6-54d6-4555-9d56-53e972eb0c47.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/TVN%2024%20HD.png" group-title="INFORMACYJNE",TVN 24
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/63b3c74c-7266-4f68-baa7-f897a5e1cab7.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TVN%2024%20BiS%20HD.png" group-title="INFORMACYJNE",TVN 24 BiS
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/9c0826c3-70f3-4e2c-97b2-5bf37958056d.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/a3/wPolsce.pl.png" group-title="INFORMACYJNE",wPolsce.pl
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/d3336a0a-9b8b-404d-8f20-d9a33a77b6a9.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/eho%2024.png" group-title="INFORMACYJNE",TV echo 24
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/fe26e96f-f41b-43cf-9d34-588c7bdb1e23.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo6/UA%20TV%20PL.png" group-title="INFORMACYJNE",UA TV PL
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/60267385-4006-4883-9811-1a773ac9f220.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/a1/TV%20KUJAWY%201.png" group-title="INFORMACYJNE",TV Kujawy
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/8aa2a3f1-e344-4cda-a459-7fee70a7a19d.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/a1/TV%20TORUN%201.png" group-title="INFORMACYJNE",TV Torun
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/160c0ac0-e93b-4864-bd00-d89be2fe0a83.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/a1/TV%20ZGORZELEC.png" group-title="INFORMACYJNE",TVT Zgorzelec
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/06f06fb3-776d-4325-a514-2ea92c5315f3.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo6/CARTOONITO.png" group-title="DLA DZIECI",Cartoonito live
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/9558dccf-8b30-4666-a671-d4fc9300b28f.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/aa/teennick.png" group-title="DLA DZIECI",TeenNick
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/a7f75bc3-3bee-465f-85e0-69083e53e9f3.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/a1/4fun_Kids.png" group-title="DLA DZIECI",4Fun Kids
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/296dda47-d22e-422c-a518-5c4569df782d.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TVP%20ABC.png" group-title="DLA DZIECI",TVP ABC
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/fc576ccd-18d4-4395-8d30-482333a70979.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Teletoon+%20HD.png" group-title="DLA DZIECI",teleTOON+
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/1d62f436-d181-46ae-b7f6-8d0a9d104b08.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/JimJam%20Polsat.png" group-title="DLA DZIECI",Polsat Jim Jam
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/656c0112-496a-4372-8c06-064013939f1a.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Nicktoons%20HD.png" group-title="DLA DZIECI",Nicktoons
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/570b35b5-6162-4f5f-881c-013cf7fad772.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Nickelodeon.png" group-title="DLA DZIECI",Nickelodeon
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/cc3bfcbe-92d1-4b25-a9ee-9122400bcd71.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Nick%20Jr.png" group-title="DLA DZIECI",Nick Jr
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/c3e7702e-739e-4cdc-980b-ff1951fbd16d.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/MiniMini+%20HD.png" group-title="DLA DZIECI",MiniMini+
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/1a77f1dd-4577-4ec9-ba65-46c2772855a0.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Disney%20XD.png" group-title="DLA DZIECI",Disney XD
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/6196a492-72dc-48d4-9bf3-b08fb2db8b8f.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Disney%20Junior.png" group-title="DLA DZIECI",Disney Junior
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/499dd0f9-9f1f-42db-b82d-76ce4ade81ee.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Disney%20Channel%20HD.png" group-title="DLA DZIECI",Disney Channel
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/3d64e364-913c-4b5c-8b96-cbd8d8b341ac.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo6/Disney%20Channel%20SD.png" group-title="DLA DZIECI",Disney Channel SD live
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/e181fd26-a828-4ca3-a19a-7cab1c5dd0e6.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Cartoon%20Network%20HD.png" group-title="DLA DZIECI",Cartoon Network
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/e199319f-8f36-430d-85f5-cf86e917b7e9.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/BBC%20Cbeebies.png" group-title="DLA DZIECI",BBC CBeebies
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/261249f3-7c7e-4a82-9a2d-54708b92ed93.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Baby%20TV.png" group-title="DLA DZIECI",Baby TV
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/824ea088-b76e-44b2-b674-712ab8fc94c1.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo9b/SZLAGIER%20TV.png" group-title="MUZYCZNE",Szlagier TV
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/0ca246e0-c3ff-48ad-b272-1f64c9e7b718.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo6/MTV%2090S.png" group-title="MUZYCZNE",MTV 90
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/a2c91bd2-28b5-44a9-b1c2-10b805e08596.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo6/RDS%20SOCIAL%20TV.png" group-title="MUZYCZNE",RDS  Social TV
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/6ec21632-fb05-40f6-b4b5-40b0c6a2d84c.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo6/RADIO%20KISS%20KISS%20TV.png" group-title="MUZYCZNE",Radio Kiss Kiss Tv
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/d45e34a3-3eb1-428c-9f32-0cf06df24bf8.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo6/RADIO%20ITALIA%20TV.png" group-title="MUZYCZNE",Radio Italia Tv
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/835e2e34-1960-44c8-b2f6-d05fc4505c29.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo6/RADIO%20ITALIA%20TREND%20TV.png" group-title="MUZYCZNE",Radio Italia Trend TV
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/647ecc15-c1c0-4511-8090-87c6141c266e.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/4FUN.TV.png" group-title="MUZYCZNE",4Fun.TV
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/9e6d914b-e852-467a-a630-70f3f565235b.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/4Fun%20Fit%20Dance.png" group-title="MUZYCZNE",4Fun Dance
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/527a468e-8e08-414c-b1f3-1f3c8e59298b.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/MTV%20Polska%20HD.png" group-title="MUZYCZNE",MTV Polska
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/4b6dcf79-815f-4138-b34e-e5e49f5ac964.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo6/MTV%2000S.png" group-title="MUZYCZNE",MTV 00s
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/b547e709-d5d3-4135-aa64-415a52a59474.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/a1/nick%20music.png" group-title="MUZYCZNE",Nickmusic
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/a3dadd4a-5057-4ec2-8a93-17670400d995.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/MTV%20Live%20HD.png" group-title="MUZYCZNE",MTV Live
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/fb8f32ce-1943-4f73-a464-50df9a7419ff.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Eska%20TV%20Extra.png" group-title="MUZYCZNE",Eska TV Extra
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/f5b01f07-6e45-437b-93d8-78cdcb7ae382.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Eska%20TV.png" group-title="MUZYCZNE",Eska TV
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/8fbe8579-d25d-4fd0-89f2-b93856142ccb.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo6/Eska%20TV%20SD.png" group-title="MUZYCZNE",Eska tv SD live
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/e081ebde-e0ed-40c3-8289-ce0479edb936.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/VOX%20Music%20TV.png" group-title="MUZYCZNE",VOX MUSIC TV
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/89c7491f-fb5b-4faf-9bb5-6083695fee30.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Polsat%20Music%20HD.png" group-title="MUZYCZNE",Polsat Music
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/1f8ea1f7-1598-49f5-ade1-aeb8d2a52609.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Nuta%20TV.png" group-title="MUZYCZNE",NUTA TV
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/bbcb6a90-a490-42db-b95a-52ebc242e55a.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Kino%20Polska%20Muzyka.png" group-title="MUZYCZNE",Kino Polska Muzyka
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/032ad8c9-fce8-4dcf-b9bb-e62ea1dd24da.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Disco%20Polo%20Music.png" group-title="MUZYCZNE",Disco Polo Music
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/6fb55cd9-02ba-4f0e-999b-a5038ef0eef4.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/a3/Nuta_Gold.png" group-title="MUZYCZNE",NUTA Gold
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/78950181-dae9-49de-92cc-90586cd95d53.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo7/BIKINI%20TV.png" group-title="MUZYCZNE",BIKINI TV test2
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/8d62d56c-0b1a-4048-8122-4cb5e603cca3.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo7/FASHION%20F-MEN%20TV.png" group-title="MUZYCZNE",FASHION F-MEN TV test2
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/2edc5f7f-3f77-48dc-bde2-d9b9dc3d3ba9.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo7/FASHION%20CINE.png" group-title="MUZYCZNE",FASHION CINE test2
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/2992d167-7e5e-46d7-aa1e-205f55621327.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo7/OCKO%20TV.png" group-title="MUZYCZNE",OCKO TV test2
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/cbd2a0bf-de20-488e-bcb5-f0af81714730.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo7/BARAZA%20TV.png" group-title="MUZYCZNE",BARAZA TV test2
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/934e1d29-7f0c-4ce8-935c-d40d84d9e5f5.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo7/KORONEHIT%20TV.png" group-title="MUZYCZNE",KORONEHIT TV test2
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/7d0c8270-060f-440f-9781-318d19e0d47f.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo7/RU%20TV.png" group-title="MUZYCZNE",RU TV test2
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/5ac57dee-9325-4a84-846e-8122c836c2b6.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo7/QMICIC%20TV.png" group-title="MUZYCZNE",QMISIC TV test2
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/1df2928b-0098-4667-9218-c7307a4c75d4.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo7/EURODANCE%2090.png" group-title="MUZYCZNE",EURODANCE 90 test2
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/46b1d0ce-8984-4685-b7b3-8993c912bfab.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/vox%2093.3.png" group-title="MUZYCZNE",Radio vox
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/02508ef0-44c1-43bc-ba86-99efc8a51f19.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/Radio_Eska.png" group-title="MUZYCZNE",Radio ESKA
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/a82a9646-e98f-4ef6-bc87-34df8b6570ad.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/JASNA%20GORA.png" group-title="MUZYCZNE",JASNA GORA
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/581d04d1-3f34-4be0-80c1-a6773de33fa2.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/n1/NC+%20RADIO.png" group-title="MUZYCZNE",NC+ RADIO
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/24a0f109-91da-4bf0-8c2b-158ff5e53fb7.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo3/2/NC+%20PR.png" group-title="MUZYCZNE",NC+ PR
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/fefcd904-611f-4d20-bad7-1785dcfdd95f.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo3/2/RMF%20Classic.png" group-title="MUZYCZNE",RMF Classic
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/5abc4361-3e81-48cc-9394-0c894ab1fb85.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo3/2/RMF%20FM.png" group-title="MUZYCZNE",RMF FM
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/76f46e54-5d0c-41af-9b8c-35a2fb3aa2c0.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/RMF%20MAXX.png" group-title="MUZYCZNE",RMF MAXX
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/df86f590-46f5-4613-b698-0dfe780f556b.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/Zlote%20przeboje.png" group-title="MUZYCZNE",Zlote przeboje
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/3660ee84-f8ef-431e-8bdd-044919220c1b.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/radio/polskie%20radio%201.png" group-title="MUZYCZNE",Polskie Radio Program 1
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/eb39b708-afa7-403b-9692-61208ade56db.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/radio/polskie%20radio%202.png" group-title="MUZYCZNE",Polskie Radio Program 2
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/34c3a0fc-ea07-475b-82f2-42eaad45ffcc.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/radio/polskie%20radio%203.png" group-title="MUZYCZNE",Polskie Radio Program 3
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/1caa8f9d-3fb0-4aa4-9ef5-aac4ce5065be.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/radio/polskie%20radio%204.png" group-title="MUZYCZNE",Polskie Radio Program 4
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/fb489f57-dba2-4152-b93b-09ba520d9bd3.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/radio/radio%20pogoda.png" group-title="MUZYCZNE",Radio Pogoda
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/9f743dce-0b51-4dd5-8076-c2c4830da8ec.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/radio/radio%20plus%20warszawa.png" group-title="MUZYCZNE",Radio Plus Warszawa
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/9e29a22e-0ad7-4c97-b487-b034a9c7ae1b.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://178.175.133.114/logo/radio/radio%20dla%20ciebie%20warszawa.png" group-title="MUZYCZNE",RDC Warszawa
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/01f0d00a-b7da-4414-97b1-a713008d8032.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo9/THE%20WEATHER%20CHANNEL%20LIVE.png" group-title="PRZYRODNICZE",The Weather Channel Live
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/12436631-dca3-4998-941b-8b991384dc86.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo8/STOPKLATKA%20SD.png" group-title="OGOLNE",Stopklatka 
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/79640abe-7409-46d6-a189-f1cbfb791ec6.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo6/SCIENCE%20POLAND.png" group-title="PRZYRODNICZE",Science Poland
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/6fa6833d-9001-43ad-bf91-ae7c9e48299e.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/ADVENTURE.png" group-title="PRZYRODNICZE",ADVENTURE
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/3e189727-3fd8-47b8-975c-f79470c8cb59.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Animal%20Planet%20HD.png" group-title="PRZYRODNICZE",Animal Planet
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/cf519064-1e8e-4f69-9ea9-a852c09fe9ce.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Polsat%20Viasat%20Nature.png" group-title="PRZYRODNICZE",Polsat Viasat Nature
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/2892825b-c125-4f95-9a46-fd922af13391.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Polsat%20Viasat%20History%20HD.png" group-title="PRZYRODNICZE",Polsat Viasat History
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/c27e71e4-d9bc-4ad4-8f11-e98f9b361b4b.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Polsat%20Viasat%20Explore%20HD.png" group-title="PRZYRODNICZE",Polsat Viasat Explore
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/c50f4f17-292d-4940-a54f-248734f6c55a.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Polsat%20Doku%20HD.png" group-title="PRZYRODNICZE",Polsat Doku
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/da51d135-c204-4bde-8106-ad4be41d3cb8.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Polsat%20Doku%20HD.png" group-title="OGOLNE",Polsat Doku sd
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/0f8be484-c3e7-43c2-b31e-1fdb253c91d4.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Planete+%20HD.png" group-title="PRZYRODNICZE",Planete+
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/d13ddb5a-20bc-4450-8a3d-cb5340975ea7.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/NAT%20GEO%20WILD%20HD.png" group-title="PRZYRODNICZE",National Geographic Wild
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/0cc1f728-3f3d-4937-a20c-7d47b04c8e9f.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/NATIONAL%20GEO%20HD.png" group-title="PRZYRODNICZE",NATIONAL GEO
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/eb0eead3-a812-42dd-acc4-10d990308b60.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/NAT%20GEO%20PEOPLE%20HD.png" group-title="PRZYRODNICZE",Nat Geo People
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/f4c80078-24db-4f6d-84e9-3b0ff905015d.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo5/bbc%20earth.png" group-title="PRZYRODNICZE",BBC Earth
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/28ee8c03-a370-4e8d-92ca-07d12805b77f.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/History%20HD.png" group-title="PRZYRODNICZE",History
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/456f735f-2303-4373-8d93-08a1c22d9ef1.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/H2%20HD.png" group-title="PRZYRODNICZE",History 2
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/c3d4d6b6-79ef-47a9-9c04-0f63682576b4.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo9c/Discovery%20Historia.png" group-title="PRZYRODNICZE",Discovery Historia
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/a14e1f53-ac2e-4e69-9aa1-5a16295955d4.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Travel%20Channel%20HD.png" group-title="PRZYRODNICZE",Travel Channel
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/9fa34832-e6ab-45c6-83bc-a96718a341d5.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Fokus%20TV.png" group-title="PRZYRODNICZE",Fokus TV
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/20526d38-5fc5-408a-b21c-fa4666986486.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Discovery%20Science%20HD.png" group-title="PRZYRODNICZE",Discovery Science
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/0d0906f7-df88-4d9d-96d1-212387a64780.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Discovery%20Life%20HD.png" group-title="PRZYRODNICZE",Discovery Life
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/54a3c509-0e0b-4135-be66-5d0bad09d047.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/logo4/aa/DISCOVERY%20HD.png" group-title="PRZYRODNICZE",Discovery
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/ca019dd2-3f76-47f9-8934-296fe289d708.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Da%20Vinci%20Learning.png" group-title="PRZYRODNICZE",Da Vinci Learning
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/e3375e5b-c827-4d47-95c3-251f67903f8d.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Water%20Planet%20HD.png" group-title="PRZYRODNICZE",Water Planet
+http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/e40f864d-638a-4535-a2f6-1ebd8685e29d.ts
