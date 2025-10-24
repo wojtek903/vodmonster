@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+﻿#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TVP%20HD.png" group-title="OGOLNE",TVP
 http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/a8ef46c5-142a-4c2a-bb0d-27fdb7ba3a36.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/TVP%201.png" group-title="OGOLNE",TVP 1
@@ -497,3 +497,4 @@ http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/ca019dd2-3f76
 http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/e3375e5b-c827-4d47-95c3-251f67903f8d.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://45.134.21.122/logo/Water%20Planet%20HD.png" group-title="PRZYRODNICZE",Water Planet
 http://iptvsklep.art:8080/live/daniel.dytrych%40interia.pl/ebmEAg7/e40f864d-638a-4535-a2f6-1ebd8685e29d.ts
+
